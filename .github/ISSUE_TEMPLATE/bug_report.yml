@@ -1,0 +1,26 @@
+name: Bug report
+description: Report a reproducible issue without private data.
+body:
+  - type: markdown
+    attributes:
+      value: Do not include session tokens, certificate fingerprints, phone identifiers, private screenshots, personal data, or logs containing secrets. Report security vulnerabilities privately.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce and expected behavior
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Physical device model and Android version
+  - type: input
+    id: environment
+    attributes:
+      label: Computer OS, Node version and MCP client

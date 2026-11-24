@@ -1,0 +1,1 @@
+{"name":"droiddesk-local-android-mcp-prototype","version":"0.1.0","private":true,"type":"commonjs","scripts":{"start":"node index.cjs","test":"node --test test.cjs"},"dependencies":{"@modelcontextprotocol/sdk":"1.32.2","zod":"^4.0.0"}}

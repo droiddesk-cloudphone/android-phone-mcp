@@ -1,0 +1,10 @@
+app/build/
+server/node_modules/
+*.apk
+*.aab
+*.keystore
+*.jks
+*.pem
+.env
+.env.*
+.DS_Store

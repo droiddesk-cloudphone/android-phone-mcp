@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+  <title id="title">Android Phone MCP by DroidDesk</title><desc id="desc">Diagram showing an AI agent, local MCP server, and Android phone connected over Wi-Fi.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08152e"/><stop offset="1" stop-color="#102b59"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#4fa8ff"/><stop offset="1" stop-color="#82edcf"/></linearGradient></defs>
+  <rect width="1440" height="480" rx="32" fill="url(#bg)"/><circle cx="1320" cy="30" r="220" fill="#1c59a0" opacity=".13"/><circle cx="125" cy="458" r="170" fill="#3086e9" opacity=".08"/>
+  <text x="720" y="76" text-anchor="middle" fill="#9ac6ff" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">YOUR PHONE · YOUR AGENT</text>
+  <path d="M405 234 H520 M920 234 H1035" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 10"/>
+  <rect x="100" y="133" width="305" height="198" rx="22" fill="#142b4b" stroke="#436990"/><rect x="567" y="133" width="305" height="198" rx="22" fill="#142b4b" stroke="#436990"/><rect x="1035" y="133" width="305" height="198" rx="22" fill="#142b4b" stroke="#436990"/>
+  <circle cx="151" cy="185" r="20" fill="#2f85ff"/><path d="M142 185h18m-9-9v18" stroke="#fff" stroke-width="3" stroke-linecap="round"/><text x="183" y="193" fill="#f4f8ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">AI client</text>
+  <text x="132" y="254" fill="#b3c5de" font-family="Arial,sans-serif" font-size="19">Your preferred MCP agent</text><text x="132" y="283" fill="#b3c5de" font-family="Arial,sans-serif" font-size="19">reads and acts</text>
+  <rect x="600" y="164" width="39" height="39" rx="9" fill="#334ef1"/><path d="M610 184h19m-10-10v20" stroke="#fff" stroke-width="3" stroke-linecap="round"/><text x="651" y="193" fill="#f4f8ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">MCP server</text>
+  <text x="599" y="254" fill="#b3c5de" font-family="Arial,sans-serif" font-size="19">Runs on your computer</text><text x="599" y="283" fill="#b3c5de" font-family="Arial,sans-serif" font-size="19">One local session</text>
+  <rect x="1070" y="164" width="30" height="43" rx="7" fill="none" stroke="#6fdcc7" stroke-width="3"/><path d="M1079 198h12" stroke="#6fdcc7" stroke-width="2"/><text x="1115" y="193" fill="#f4f8ff" font-family="Arial,sans-serif" font-size="27" font-weight="700">Android</text>
+  <text x="1067" y="254" fill="#b3c5de" font-family="Arial,sans-serif" font-size="19">Your physical phone</text><text x="1067" y="283" fill="#b3c5de" font-family="Arial,sans-serif" font-size="19">Connects over Wi-Fi</text>
+  <rect x="565" y="373" width="310" height="42" rx="21" fill="#163758" stroke="#2e607c"/><text x="720" y="400" text-anchor="middle" fill="#99ead5" font-family="Arial,sans-serif" font-size="16" font-weight="700">NO ADB FOR RUNTIME CONTROL</text>
+</svg>
